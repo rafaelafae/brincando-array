@@ -4,7 +4,7 @@ Este repositório contém o código fonde metodoligias aplicadas em arrays.
 HTML, CSS e JSON desenvolvido por Alira e JavaScript desenvolvido por mim.
 O website apresenta uma interface amigável e responsiva.
 
-![Capa projeto]()
+![Capa projeto](https://github.com/rafaelafae/brincando-array/blob/main/imagens/Capa%20-%20web.png)
 
 ## Tecnologias Utilizadas:
 
