@@ -1,7 +1,7 @@
 # Brincando com Arrays
 
-Este repositório contém o código fonde metodoligias aplicadas em arrays.
-HTML, CSS e JSON desenvolvido por Alira e JavaScript desenvolvido por mim.
+Este repositório contém o código fonte de metodoligias aplicadas em arrays.
+HTML, CSS e JSON desenvolvido por Alura e JavaScript desenvolvido por mim.
 O website apresenta uma interface amigável e responsiva.
 
 [Demo do projeto](https://brincando-array.vercel.app/)
